@@ -16,11 +16,5 @@ Power BI Desktop
 Power Query for data transformation
 DAX for calculated measures and KPIs
 
-🚀 Getting Started
-To explore or edit this report:
-Download and install Power BI Desktop
-Clone this repository or download the .pbix file
-Open Election Report.pbix using Power BI Desktop
-
 🧾 Dataset Source
 Data sourced from Election Commission of India or similar official datasets.
